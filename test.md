@@ -1,5 +1,5 @@
 ---
-label: Nav Label
+label: this doesn't work
 id: unique_slug
 categorySlug: categorySlug
 categoryLabel: Cats
