@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/taserflanger/test-gulp-markdown-docs/issues"
   },
-  "homepage": "https://github.com/taserflanger/test-gulp-markdown-docs#readme"
+  "homepage": "https://github.com/taserflanger/test-gulp-markdown-docs#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-markdown-docs": "^0.1.5"
+  }
 }
